@@ -1,9 +1,65 @@
-DC_101_-_WEB_DEVELOPMENT_1
-Name: Azores, Marielle L.
-CVS: BSCS 2E 
-Subject: DC 101 - Web Development 1
-Instructor: Engr. John Eugene D. Fortunado
-Age: 19
-Address: Purok #3,Brgy. Antipolo del Sur, Lipa City, Batangas
-Contact Number: 09853832671
-Description: A Computer Science student at KLL, studying DC 101 - Web Development 1 for the academic year 2024-2025.
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        Take All The Love
+    </title>
+</head>
+<body style="background-color: rgb(179, 228, 19);">
+    <h1 style="text-align: center; font-family: 'Times New Roman', Times, serif;">
+        TAKE ALL THE LOVE
+        Song by Arthur Nery
+    </h1>
+    <h3 style="text-align: center; animation: name duration timing-function delay iteration-count direction fill-mode;">
+        Lyrics
+    </h3>
+    <p style="text-align: center;font-family: 'Times New Roman', Times, serif;">
+        You'll be safe in my romance, babe <br>
+        Label's fading <br>
+        But I see you cravin' for more <br>
+        You're denying it <br>
+        But you ain't controlling your actions <br>
+        Keep me guessing <br>
+        But don't keep me waiting for us <br>
+    </p>
+    <p style="text-align: center; font-family: 'Times New Roman', Times, serif;">
+        Oh, I live to appreciate you <br>
+        Take all the love that I give <br>
+        All that I wish is for you to take me <br>
+        But I taste the lies on your lips <br>
+        I count the days when we're in love <br>
+        'Cause I only matter when he's not around <br>
+        Oh, but I live to appreciate you <br>
+        Take all the love that I give <br>
+    </p>
+    <p style="text-align: center;font-family: 'Times New Roman', Times, serif;">
+        Got my heart on my sleeve <br>
+        I'm beggin' the heavens to be good to me <br>
+        Are you obsessive, love? <br>
+        'Cause I'm tolerating all of your desires <br>
+        I'll keep you wanting me more, ooh <br>
+        Leave, but I'll keep you comin' <br>
+        I'm sure it's my love that got you suffocated <br>
+    </p>
+    <p style="text-align: center; font-family: 'Times New Roman', Times, serif;">
+        Oh, I live to appreciate you <br>
+        Take all the love that I give <br>
+        All that I wish is for you to take me <br>
+        But I taste the lies on your lips <br>
+        I count the days when we're in love <br>
+        'Cause I only matter when he's not around <br>
+        Oh, but I live to appreciate you <br>
+        Take all the love that I given <br>
+    </p>
+    <p style="text-align: center; font-family: 'Times New Roman', Times, serif;">
+        Take all the love that I give <br>
+        All that I- <br>
+    </p>
+    <p style="text-align: center; font-family: 'Times New Roman', Times, serif;">
+        You come over but not too often <br>
+        You don't visit 'cause you got more options <br>
+        You come over but not too often <br>
+        You don't visit 'cause you got more options <br>
+    </p>
+</body>
+</html>
