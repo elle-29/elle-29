@@ -2,7 +2,6 @@
 <html>
     <Head>
         <title>Marielle Azores / Personal Bio</title>
-<!--https://htmlpreview.github.io/?https://github.com/elle-29/elle-29/blob/eb9c63f0e863b4cf349b265a1cc5d96c22ac9e58/ProfileBio-->
     </Head>
     <body>
         <header>
@@ -11,9 +10,9 @@
             </div>  
             <div>
                 <ul>
-                    <li><a href="web.html target="_self">Home</a></li>
+                    <li><a href="marielleprofilebio.html" target="_self">Home</a></li>
                     <li><a href="https://github.com/elle-29" target="_blank">Profile</a></li>
-                    <li><a href="mriellelazores.htmll" target="_self">Song</a></li>
+                    <li><a href="web.html" target="_self">Song</a></li>
                 </ul>
             </div>
         </header>
