@@ -1,55 +1,90 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>
-        Take All The Love
-    </title>
-</head>
-<body style="background-color: rgb(179, 228, 19);">
-    <h1 style="text-align: center; font-family: 'Times New Roman', Times, serif;">
-        TAKE ALL THE LOVE
-        Song by Arthur Nery
-    </h1>
-    <h3 style="text-align: center; animation: name duration timing-function delay iteration-count direction fill-mode;">
-        Lyrics
-    </h3>
-    <p style="text-align: center;font-family: 'Times New Roman', Times, serif;">
-        You'll be safe in my romance, babe <br>
-        Label's fading <br>
-        But I see you cravin' for more <br>
-        You're denying it <br>
-        But you ain't controlling your actions <br>
-        Keep me guessing <br>
-        But don't keep me waiting for us <br>
-    </p>
-    <p style="text-align: center; font-family: 'Times New Roman', Times, serif;">
-        Oh, I live to appreciate you <br>
-        Take all the love that I give <br>
-        All that I wish is for you to take me <br>
-        But I taste the lies on your lips <br>
-        I count the days when we're in love <br>
-        'Cause I only matter when he's not around <br>
-        Oh, but I live to appreciate you <br>
-        Take all the love that I give <br>
-    </p>
-    <p style="text-align: center;font-family: 'Times New Roman', Times, serif;">
-        Got my heart on my sleeve <br>
-        I'm beggin' the heavens to be good to me <br>
-        Are you obsessive, love? <br>
-        'Cause I'm tolerating all of your desires <br>
-        I'll keep you wanting me more, ooh <br>
-        Leave, but I'll keep you comin' <br>
-        I'm sure it's my love that got you suffocated <br>
-    </p>
-    <p style="text-align: center; font-family: 'Times New Roman', Times, serif;">
-        Oh, I live to appreciate you <br>
-        Take all the love that I give <br>
-        All that I wish is for you to take me <br>
-        But I taste the lies on your lips <br>
-        I count the days when we're in love <br>
-        'Cause I only matter when he's not around <br>
-        Oh, but I live to appreciate you <br>
-        Take all the love that I given <br>
+    <Head>
+        <title>Marielle Azores / Personal Bio</title>
+    </Head>
+    <body>
+        <header>
+            <div>
+                <h1>Marielle</h1>
+            </div>  
+            <div>
+                <ul>
+                    <li><a href="file:///C:/Users/User/Desktop/website/marielleprofilebio.html" target="_self">Home</a></li>
+                    <li><a href="https://github.com/elle-29" target="_self">Profile</a></li>
+                    <li><a href="file:///C:/Users/User/Desktop/website/mriellelazores.html" target="_self">Song</a></li>
+                </ul>
+            </div>
+        </header>
+    </body>
+</html>
+<hr>
+<main>
+    <div>
+        <h2>About Marielle</h2>
+        <p><strong>Name:</strong> Marielle L. Azores</p>
+        <p><strong>CVS:</strong> BSCS 2E</p>
+        <p><strong>SUBJECT:</strong> DC 101 - Web Development</p>
+        <p><strong>INSTRUCTOR:</strong> Engr. John Eugene B. Fortunado</p>
+        <p><strong>EMAIL:</strong> azoresmarielle@gmail.com</p>
+        <h4>SKILLS</h4>
+        <p><strong>Technical Skills</strong></p>
+            <ul>
+                <li>
+                    Cooking
+                </li>
+                <li>
+                    Poblem Solving
+                </li>
+            </ul>
+        <P><strong>Soft Skills</strong></P>
+            <ul>
+                <li>
+                    Quick Learner
+                </li>
+                <li>
+                    Communicative Person
+                </li>
+                <li>
+                    Good Listener
+                </li>
+            </ul>
+        <p><strong>Hobbies</strong></p>
+            <ul>
+                <li>
+                    Cooking
+                </li>
+                <li>
+                    Badminton
+                </li>
+                <li>
+                    Watching Movies
+                </li>
+                <li>
+                    Litening to Music
+                </li>
+            </ul>
+            <h4>Favourites</h4>
+                <li>
+                    Chicken Adobo
+                </li>
+                <li>
+                    Pork Sinigang
+                </li>
+
+    </div>
+<hr>
+</main>
+<footer>
+    <div>
+        <ul>
+            <li><a href="https://www.facebook.com/marielle.seroza.7" target="_blank"><img src="https://freepnglogo.com/images/all_img/facebook-circle-logo-png.png" type="image/svg+xml" width="15" height="15"/></a></li>
+            <li><a href="https://www.instagram.com/marie_lle10/" target="_blank"><img src="https://img.freepik.com/premium-vector/instagram-logo-vector_768467-330.jpg" type="image/svg=xml"width="15" height="15"/></a></li>
+        </ul>
+    </div>
+</footer>
+
+</html>
     </p>
     <p style="text-align: center; font-family: 'Times New Roman', Times, serif;">
         Take all the love that I give <br>
