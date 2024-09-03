@@ -85,16 +85,3 @@
 </footer>
 
 </html>
-    </p>
-    <p style="text-align: center; font-family: 'Times New Roman', Times, serif;">
-        Take all the love that I give <br>
-        All that I- <br>
-    </p>
-    <p style="text-align: center; font-family: 'Times New Roman', Times, serif;">
-        You come over but not too often <br>
-        You don't visit 'cause you got more options <br>
-        You come over but not too often <br>
-        You don't visit 'cause you got more options <br>
-    </p>
-</body>
-</html>
