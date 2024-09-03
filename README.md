@@ -10,8 +10,8 @@
             </div>  
             <div>
                 <ul>
-                    <li><a href="marielleprofilebio.html" target="_self">Home</a></li>
-                    <li><a href="https://github.com/elle-29" target="_self">Profile</a></li>
+                    <li><a href="file:///C:/Users/User/Desktop/website/marielleprofilebio.html" target="_self">Home</a></li>
+                    <li><a href="https://github.com/elle-29" target="_blank">Profile</a></li>
                     <li><a href="web.html" target="_self">Song</a></li>
                 </ul>
             </div>
